@@ -1,1 +1,11 @@
-{"price":"10500","endDate":"10/16/2026","departure":"NE26.10.8","startDate":"2026-10-08","tripStatus":"Active","lastUpdated":"2025-11-03T23:53:02.000Z","packageName":"NE26.10.8-Double","productStatus":"Active","masterTourCode":"NE"}
+{
+  "price": "10500",
+  "endDate": "10/16/2026",
+  "departure": "NE26.10.8",
+  "startDate": "2026-10-08",
+  "tripStatus": "Active",
+  "lastUpdated": "2025-11-03T23:56:08.000Z",
+  "packageName": "NE26.10.8-Double",
+  "productStatus": "Active",
+  "masterTourCode": "NE"
+}
