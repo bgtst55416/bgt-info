@@ -1,11 +1,11 @@
 {
-  "price": null,
-  "endDate": null,
+  "price": "6600",
+  "endDate": "10/16/2026",
   "departure": null,
-  "startDate": null,
-  "tripStatus": null,
-  "lastUpdated": null,
-  "packageName": null,
-  "productStatus": null,
+  "startDate": "2026-10-08",
+  "tripStatus": "Active",
+  "lastUpdated": "2025-10-29T22:23:54.000Z",
+  "packageName": "NE26.10.8-Single",
+  "productStatus": "Active",
   "masterTourCode": "NE"
 }
